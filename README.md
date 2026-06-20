@@ -67,24 +67,7 @@ Nickname: Casper, my gaming alias!
 🛠️ Tools & Others
 <p align="left"> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a> <a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a> <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a> <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" /></a> <a href="https://www.electronjs.org"><img src="https://skillicons.dev/icons?i=electron" alt="Electron" /></a> <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a> <a href="https://redux.js.org"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a> </p>
 
-<br>
-
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats	
-<p align="center">
-  <a href="https://github.com/pawara-mmns">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pawara-mmns&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/pawara-mmns">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pawara-mmns&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-<!-- <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pawara-mmns&theme=dark&hide_border=true"/>
-</p> -->
-
-<br>
-<p align="center">
+ter">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawara-mmns&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true" width="100%"/>
 </p>
 
